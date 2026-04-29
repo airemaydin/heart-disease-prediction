@@ -6,7 +6,7 @@ This repository contains a machine learning project developed to predict the ris
 This project was built to showcase practical skills in applied machine learning and data handling using Python.
 
 ## Dataset
-The dataset used for this project is the **Heart Failure Prediction Dataset** sourced from Kaggle. Due to best practices regarding data privacy and repository size, the raw `.csv` file is not included here.
+The dataset used for this project is the **Heart Failure Prediction Dataset** sourced from Kaggle.
 * **Data Source:** [Kaggle Heart Failure Prediction Dataset](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction)
 
 ## Technologies & Libraries
