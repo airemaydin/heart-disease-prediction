@@ -22,5 +22,3 @@ The dataset used for this project is the **Heart Failure Prediction Dataset** so
 4. **Model Training & Optimization:** 
    * Trained a baseline K-Nearest Neighbors (KNN) classifier.
    * Applied `GridSearchCV` to search for the best hyperparameters (`n_neighbors` and `metric`), finalizing the most optimal and reliable model.
-
-baştaki keşifseli sildim ve eksiksizi olmuş mu daha benlik gibi
